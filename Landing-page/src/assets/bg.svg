@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.dev/svgjs" width="1440" height="560" preserveAspectRatio="none" viewBox="0 0 1440 560">
+    <g mask="url(&quot;#SvgjsMask1886&quot;)" fill="none">
+        <rect width="1440" height="560" x="0" y="0" fill="url(&quot;#SvgjsLinearGradient1887&quot;)"></rect>
+        <path d="M0 0L514.99 0L0 88.16z" fill="rgba(255, 255, 255, .1)"></path>
+        <path d="M0 88.16L514.99 0L696.38 0L0 137.68z" fill="rgba(255, 255, 255, .075)"></path>
+        <path d="M0 137.68L696.38 0L939.14 0L0 193.88z" fill="rgba(255, 255, 255, .05)"></path>
+        <path d="M0 193.88L939.14 0L1179.4 0L0 431.43z" fill="rgba(255, 255, 255, .025)"></path>
+        <path d="M1440 560L1367.95 560L1440 324.47z" fill="rgba(0, 0, 0, .1)"></path>
+        <path d="M1440 324.47L1367.95 560L822.3900000000001 560L1440 314.96000000000004z" fill="rgba(0, 0, 0, .075)"></path>
+        <path d="M1440 314.96000000000004L822.3900000000001 560L780.9800000000001 560L1440 278.23z" fill="rgba(0, 0, 0, .05)"></path>
+        <path d="M1440 278.23L780.9800000000001 560L463.48000000000013 560L1440 257.16z" fill="rgba(0, 0, 0, .025)"></path>
+    </g>
+    <defs>
+        <mask id="SvgjsMask1886">
+            <rect width="1440" height="560" fill="#ffffff"></rect>
+        </mask>
+        <linearGradient x1="15.28%" y1="-39.29%" x2="84.72%" y2="139.29%" gradientUnits="userSpaceOnUse" id="SvgjsLinearGradient1887">
+            <stop stop-color="#0e2a47" offset="0"></stop>
+            <stop stop-color="rgba(244, 236, 2, 1)" offset="1"></stop>
+        </linearGradient>
+    </defs>
+</svg>
